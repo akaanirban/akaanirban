@@ -1,7 +1,7 @@
 ### Hi there 👋👋
 
-- 🔭 I’m a Ph.D. student at [Rensselaer Polytechnic Institute, Computer Science Department](https://science.rpi.edu/computer-science).
-- 🧑‍💻 I’m currently working on algorithms in Federated Learning. 
+- 🔭 I am a Senior Full Stack Data Scientist @Capital One working on Conversational AI, large scale NLP and MLOps.  
+- 🧑‍💻 Before this, I was a Ph.D. student at [Rensselaer Polytechnic Institute, Computer Science Department](https://science.rpi.edu/computer-science), working on algorithms in Federated Learning. 
 - ⏮️ I have also dabbled into resource allocation and computational offloading in edge/cloud/hybrid cloud systems.
 - 🤖 Passionate about distributed ML/DL applications and in distributed (edge/cloud) engineering problems! 
 
